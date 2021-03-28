@@ -1,6 +1,6 @@
 ---
 title: "治疗懒癌的第一步 我终于把heroku和netlify/github page的部署弄好了. "
-date: 2021-03-28T11:33:46.855Z
+date: 2021-03-28T12:15:32.961Z
 description: 心情, 部署
 ---
 ## 跨出治疗懒癌的第一步
